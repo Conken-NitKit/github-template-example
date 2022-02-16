@@ -23,4 +23,4 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 
 ## 利用してほしいPRテンプレート
 
-- [共通で利用してほしいもの](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [シンプルver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
