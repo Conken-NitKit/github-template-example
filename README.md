@@ -3,6 +3,8 @@
 GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレートのことです。<br>
 初期表示される内容は **`.github/PULL_REQUEST_TEMPLATE.md`** 内に記載した内容は反映されます。
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="720">
+
 ## なぜPRのDescriptionを書くのか
 
 - 何をしたいPRなのかをレビュワーに伝えれるようにする。。
