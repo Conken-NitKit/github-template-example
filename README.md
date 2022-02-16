@@ -23,5 +23,7 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 
 ## 利用してほしいPRテンプレート
 
+このテンプレートは盲信しすぎず、不要だと思った項目は各プロジェクトにて削除してください。
+
 - [🔰 マークシンプルver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16"> React ver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE_REACT.md)
