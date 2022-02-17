@@ -34,3 +34,4 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 
 - [🔰 マークシンプルver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16"> React ver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE_REACT.md)
+- [<img src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" width="16"> Unity ver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE_UNITY.md)
