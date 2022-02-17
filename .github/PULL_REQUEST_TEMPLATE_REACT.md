@@ -44,8 +44,8 @@
 - [ ] if文では「調査対象」を左側に、「比較対象」を右側に配置している [参考](https://twitter.com/yuuuma_11/status/1347374986160340992/photo/2)
 - [ ] 値のパターンによって分岐する場合は `is/else文` ではなく、`switch文` を使う [参考](https://blog.senseshare.jp/if-switch.html)
 
-### 共通(その他)
-- [ ] フォーマット差分などは PR 上に一言 `インラインコメント` を付けて、レビュワーが省エネできるように [参考](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request)
+### 共通（コメント系）
+- [ ] コメントには適切なアノテーションコメントが記載されている [参考](https://qiita.com/taka-kawa/items/673716d77795c937d422)
 
 ### JavaScript(命名)
 - [ ] 変数名, 関数名, プロパティ名 は `ローワーキャメルケース` になっている [参考](https://qiita.com/RyosukeSomeya/items/90f8e780b37c53758276)
@@ -68,5 +68,5 @@
 - [ ] attributeにブール値を直接記載する場合は省略形を利用する [参考](https://qiita.com/baby-degu/items/ea4eede60bbe9c63a348#1-jsx%E3%81%AE%E7%9C%81%E7%95%A5%E5%BD%A2%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B)
 - [ ] attributeに文字列を直接記載する場合は波括弧を利用しない [参考](https://qiita.com/baby-degu/items/ea4eede60bbe9c63a348#9-%E6%96%87%E5%AD%97%E5%88%97%E5%B1%9E%E6%80%A7%E3%81%AB%E6%B3%A2%E6%8B%AC%E5%BC%A7%E3%81%AF%E4%B8%8D%E8%A6%81)
 
-### 共通（コメント系）
-- [ ] コメントには適切なアノテーションコメントが記載されている [参考](https://qiita.com/taka-kawa/items/673716d77795c937d422)
+### 共通(その他)
+- [ ] フォーマット差分などは PR 上に一言 `インラインコメント` を付けて、レビュワーが省エネできるように [参考](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/commenting-on-a-pull-request)
