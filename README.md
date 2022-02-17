@@ -5,6 +5,7 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 
 ▼ デフォルトで以下のような入力がされます。
 
+動画にする
 <img src="https://user-images.githubusercontent.com/41711771/154314978-360e6784-b88a-4d1e-b8dd-f25f5073cfe2.png" width="960">
 
 ## なぜPRのDescriptionを書くのか
