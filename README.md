@@ -35,6 +35,6 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 > ディレクトリ名/ファイル名は必ず `.github/PULL_REQUEST_TEMPLATE.md` である必要があります。
 > `.github/PULL_REQUEST_TEMPLATE_XXX.md` とした場合はうまく動作しないので、必ず `_XXX` の部分は削除するようにしてください。
 
-- [🔰 マークシンプルver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
+- [🔰 シンプルver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE.md)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="16"> React ver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE_REACT.md)
 - [<img src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.ico" width="16"> Unity ver](https://github.com/Conken-NitKit/github-template-example/blob/main/.github/PULL_REQUEST_TEMPLATE_UNITY.md)
