@@ -7,8 +7,6 @@ GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレ�
 
 <img src="https://user-images.githubusercontent.com/41711771/154782746-4ddb14ff-9631-490b-8e53-2a74a6a6d5d0.gif" width="960">
 
-![pull_requests_template]()
-
 
 ## なぜPRのDescriptionを書くのか
 
