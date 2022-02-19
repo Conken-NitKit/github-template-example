@@ -3,9 +3,12 @@
 GitHubでPR作成時のDescriptionエリアに初期表示させるテンプレートのことです。<br>
 初期表示される内容は **`.github/PULL_REQUEST_TEMPLATE.md`** 内に記載した内容は反映されます。
 
-▼ デフォルトで以下のような入力がされます。
+▼ デモ動画
+<img src="https://user-images.githubusercontent.com/41711771/154783596-a32567d7-81b0-4708-881e-2bc0ff341216.gif" width="960">
 
+▼ 画像が荒いので静止画ver
 <img src="https://user-images.githubusercontent.com/41711771/154314978-360e6784-b88a-4d1e-b8dd-f25f5073cfe2.png" width="960">
+
 
 ## なぜPRのDescriptionを書くのか
 
