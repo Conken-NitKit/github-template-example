@@ -42,7 +42,7 @@
 ### 共通 (処理系)
 - [ ] **早期リターン（ガード節）** を適用することで条件分岐の簡略化している → [参考](https://zenn.dev/media_engine/articles/early_return)
 - [ ] if文では「調査対象」を左側に、「比較対象」を右側に配置している → [参考](https://twitter.com/yuuuma_11/status/1347374986160340992/photo/2)
-- [ ] 値のパターンによって分岐する場合は `is/else文` ではなく、`switch文` を使う → [参考](https://blog.senseshare.jp/if-switch.html)
+- [ ] 値のパターンによって分岐する場合は `if/else文` ではなく、`switch文` を使う → [参考](https://blog.senseshare.jp/if-switch.html)
 
 ### 共通 (コメント系)
 - [ ] コメントには適切なアノテーションコメントが記載されている → [参考](https://qiita.com/taka-kawa/items/673716d77795c937d422)
